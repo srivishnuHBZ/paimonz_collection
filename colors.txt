@@ -1,0 +1,11 @@
+#6c757d greenish gray
+#5C7075 darker greenish gray
+#59696C more darker
+#57878C heading logo
+#68A1A7 hover logo
+#3F3F3F matte black
+#E8E8E8 gray
+434343
+3A8B8E
+2B6A6C
+4963B9
